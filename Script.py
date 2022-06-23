@@ -69,7 +69,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of <a href=https://t.me/{}>{}</a>
+these are the extra features of 𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼 bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
