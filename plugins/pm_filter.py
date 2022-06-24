@@ -451,7 +451,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -513,7 +513,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -571,7 +571,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -625,7 +625,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -680,7 +680,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -734,7 +734,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -788,7 +788,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -842,7 +842,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -897,7 +897,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -951,7 +951,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -1006,7 +1006,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
@@ -1069,7 +1069,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
-            text="[|||||||...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
+            text="[lllll...] 𝙻𝙾𝙰𝙳𝙸𝙽𝙶…"
         )
         await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
