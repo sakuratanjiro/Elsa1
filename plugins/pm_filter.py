@@ -417,43 +417,43 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -479,43 +479,43 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -537,43 +537,43 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -589,46 +589,45 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('✾ 𝙱𝙰𝙲𝙺 ✾', callback_data='about')
         ]]
         reply1 = await query.message.reply_text(
-            texreply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -645,47 +644,46 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('❃ 𝙱𝚄𝚃𝚃𝙾𝙽 ❃', callback_data='button')
         ]]
         reply1 = await query.message.reply_text(
-            text="[■□□□□□□□□□] 10%"
-        )reply1 = await query.message.reply_text(
+            texreply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -703,43 +701,43 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text=*▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -757,43 +755,43 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -810,45 +808,46 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('❃ 𝙰𝙳𝙼𝙸𝙽 ❃', callback_data='admin')
         ]]
         reply1 = await query.message.reply_text(
+            texreply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -866,43 +865,43 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -932,32 +931,46 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await asyncio.sleep(0.05)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
+        reply1 = await query.message.reply_text(
+            text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
+        reply2 = await reply1.edit_text(
+            text="▰▰▱▱▱▱▱▱▱▱ 20%"
+        )
+        await asyncio.sleep(0.1)
+        reply3 = await reply2.edit_text(
+            text="▰▰▰▱▱▱▱▱▱▱ 30%"
+        )
+        await asyncio.sleep(0.1)
+        reply4 = await reply3.edit_text(
+            text="▰▰▰▰▱▱▱▱▱▱ 40%"
+        )
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
@@ -984,43 +997,43 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply5 = await reply4.edit_text(
             text="▰▰▰▰▰▱▱▱▱▱ 50%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
+            text='▰▰▰▰▰▰▱▱▱▱ 60%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
             text="▰▰▰▰▰▰▰▱▱▱ 70%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply8 = await reply7.edit_text(
             text="▰▰▰▰▰▰▰▰▱▱ 80%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply9 = await reply8.edit_text(
             text="▰▰▰▰▰▰▰▰▰▱ 90%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply10 = await reply9.edit_text(
             text="▰▰▰▰▰▰▰▰▰▰ 100%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply11 = await reply10.edit_text(
             text="Eʟsᴀ ❄️"
         )
