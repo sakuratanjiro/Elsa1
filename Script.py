@@ -19,8 +19,9 @@ class script(object):
 - Source - https://github.com/EvamariaTG/EvaMaria  
   
 <b>DEVS:</b>
-- <a href=https://t.me/A_s_w_i_n_01>Aswin</a>"""
- 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽
+- <a href=https://t.me/A_s_w_i_n_01>Aswin</a>
+ 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
+ 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼 bot will respond whenever a keyword is found the message
