@@ -435,7 +435,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -497,7 +497,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -555,7 +555,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -609,7 +609,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -665,7 +665,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -719,7 +719,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -773,7 +773,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -829,7 +829,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -883,7 +883,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -952,7 +952,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
@@ -1015,7 +1015,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await asyncio.sleep(0.1)
         reply6 = await reply5.edit_text(
-            text='▰▰▰▰▰▰▱▱▱▱ 60%"
+            text="▰▰▰▰▰▰▱▱▱▱ 60%"
         )
         await asyncio.sleep(0.1)
         reply7 = await reply6.edit_text(
