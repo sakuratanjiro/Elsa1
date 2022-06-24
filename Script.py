@@ -16,7 +16,8 @@ class script(object):
 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼 bot is a open source project. Repo Credit Eva maria.
-- Source - https://github.com/EvamariaTG/EvaMaria  
+
+- Source - <a href=https://github.com/EvamariaTG/EvaMaria>𝚁𝙴𝙿𝙾</a>
   
 <b>DEVS:</b>
 - <a href=https://t.me/A_s_w_i_n_01>Aswin</a>
