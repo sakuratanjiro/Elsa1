@@ -920,15 +920,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply2 = await reply1.edit_text(
             text="▰▰▱▱▱▱▱▱▱▱ 20%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply3 = await reply2.edit_text(
             text="▰▰▰▱▱▱▱▱▱▱ 30%"
         )
-        await asyncio.sleep(0.05)
+        await asyncio.sleep(0.1)
         reply4 = await reply3.edit_text(
             text="▰▰▰▰▱▱▱▱▱▱ 40%"
         reply1 = await query.message.reply_text(
