@@ -1,6 +1,7 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 ❣️
+
 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
@@ -13,14 +14,16 @@ class script(object):
 ║┣⪼❈ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ║┣⪼❈ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.2[𝙱𝙴𝚃𝙰]
 ╰•━━━━━━━━━━━━━━━➣
-𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
+ 
+ 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼 bot is a open source project. Repo Credit Eva maria.
+- 𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼 𝚋𝚘𝚝 𝚒𝚜 𝚊 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝. 𝚁𝚎𝚙𝚘 𝙲𝚛𝚎𝚍𝚒𝚝 𝙴𝚟𝚊 𝚖𝚊𝚛𝚒𝚊.
 
-- Source - <a href=https://github.com/EvamariaTG/EvaMaria>𝚁𝙴𝙿𝙾</a>
+- 𝚂𝚘𝚞𝚛𝚌𝚎 - <a href=https://github.com/EvamariaTG/EvaMaria>𝚁𝙴𝙿𝙾</a>
   
-<b>DEVS:</b>
-- <a href=https://t.me/A_s_w_i_n_01>Aswin</a>
+<b>𝐃𝐄𝐕𝐒:</b>
+- <a href=https://t.me/A_s_w_i_n_01>𝙰𝚂𝚆𝙸𝙽</a>
+
  𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
  
     MANUELFILTER_TXT = """Help: <b>Filters</b>
@@ -37,6 +40,7 @@ class script(object):
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>
+ 
  𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
@@ -52,6 +56,7 @@ class script(object):
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>
+
  𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
@@ -59,7 +64,9 @@ class script(object):
 1. Make me the admin of your channel if it's private.
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
- I'll add all the files in that channel to my db 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽."""
+ I'll add all the files in that channel to my db.
+
+ 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
@@ -73,6 +80,7 @@ class script(object):
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>
+
  𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
@@ -84,6 +92,7 @@ these are the extra features of 𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼 bo
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>
+
  𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
@@ -102,12 +111,14 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>
+
  𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     STATUS_TXT = """❀ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ❀ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ❀ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ❀ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ❀ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
+
  𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
