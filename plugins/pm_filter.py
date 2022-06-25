@@ -93,21 +93,29 @@ async def next_page(bot, query):
         btn.append(
             [InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
              InlineKeyboardButton(f"❄️Pages {round(int(offset) / 10) + 1} / {round(total / 10)}❄️",
-                                  callback_data="pages")],[
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://telegram.dog/{temp.Bot_Username}?")]
+                                  callback_data="pages")]
+        )
+        btn.append(
+            [
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
         )
     elif off_set is None:
         btn.append(
             [InlineKeyboardButton(f"🔮Pages {round(int(offset) / 10) + 1} / {round(total / 10)}🔮", callback_data="pages"),
-             InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")],[
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://telegram.dog/{temp.Bot_Username}?")])
+             InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")])
+        btn.append(   
+            [
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")])
     else:
         btn.append(
             [
                 InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
                 InlineKeyboardButton(f"🔮Pages {round(int(offset) / 10) + 1} / {round(total / 10)}🔮", callback_data="pages"),
-                InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")],[
-                InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://telegram.dog/{temp.Bot_Username}?")
+                InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")]
+        )
+        btn.append(
+               [
+                InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")
             ],
         )
     try:
@@ -1146,8 +1154,11 @@ async def auto_filter(client, msg, spoll=False):
         req = message.from_user.id if message.from_user else 0
         btn.append(
             [InlineKeyboardButton(text=f"🔮Pages 1/{round(int(total_results) / 10)}🔮", callback_data="pages"),
-             InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")],[
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://telegram.dog/{temp.Bot_Username}?")]
+             InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")]
+        )
+        btn.append(
+            [
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
         )
     else:
         btn.append(
