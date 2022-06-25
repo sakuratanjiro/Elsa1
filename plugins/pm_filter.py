@@ -93,18 +93,21 @@ async def next_page(bot, query):
         btn.append(
             [InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
              InlineKeyboardButton(f"❄️Pages {round(int(offset) / 10) + 1} / {round(total / 10)}❄️",
-                                  callback_data="pages")]
+                                  callback_data="pages"),
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://telegram.dog/{temp.Bot_Username}?")]
         )
     elif off_set is None:
         btn.append(
             [InlineKeyboardButton(f"🔮Pages {round(int(offset) / 10) + 1} / {round(total / 10)}🔮", callback_data="pages"),
-             InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")])
+             InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")],
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://telegram.dog/{temp.Bot_Username}?")])
     else:
         btn.append(
             [
                 InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
                 InlineKeyboardButton(f"🔮Pages {round(int(offset) / 10) + 1} / {round(total / 10)}🔮", callback_data="pages"),
-                InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")
+                InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}"),
+                InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://telegram.dog/{temp.Bot_Username}?")
             ],
         )
     try:
