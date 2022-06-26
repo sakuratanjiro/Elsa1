@@ -92,7 +92,7 @@ async def next_page(bot, query):
     if n_offset == 0:
         btn.append(
             [
-             InlineKeyboardButton("ᴍᴏᴠɪᴇ", callback_data=f" Hi", show_alert=True)]
+             InlineKeyboardButton("Movie", callback_data=f" Hi", show_alert=True)]
         )
         btn.append(
             [InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
