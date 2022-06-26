@@ -92,7 +92,7 @@ async def next_page(bot, query):
     if n_offset == 0:
         btn.append(
             [
-             InlineKeyboardButton("Movie", callback_data=f" Hi", show_alert=True)]
+             InlineKeyboardButton("Movie", callback_data=f"Hi", show_alert=True)]
         )
         btn.append(
             [InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
@@ -105,12 +105,22 @@ async def next_page(bot, query):
         )
     elif off_set is None:
         btn.append(
+            [
+             InlineKeyboardButton("Movie", callback_data=f"Hi", show_alert=True)]
+        )
+        btn.append(
+        btn.append(
             [InlineKeyboardButton(f"🔮Pages {round(int(offset) / 10) + 1} / {round(total / 10)}🔮", callback_data="pages"),
              InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")])
         btn.append(   
             [
              InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")])
     else:
+        btn.append(
+            [
+             InlineKeyboardButton("Movie", callback_data=f"Hi", show_alert=True)]
+        )
+        btn.append(
         btn.append(
             [
                 InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
@@ -1157,6 +1167,11 @@ async def auto_filter(client, msg, spoll=False):
         BUTTONS[key] = search
         req = message.from_user.id if message.from_user else 0
         btn.append(
+            [
+             InlineKeyboardButton("Movie", callback_data=f"Hi", show_alert=True)]
+        )
+        btn.append(
+        btn.append(
             [InlineKeyboardButton(text=f"🔮Pages 1/{round(int(total_results) / 10)}🔮", callback_data="pages"),
              InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")]
         )
@@ -1165,6 +1180,11 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
         )
     else:
+        btn.append(
+            [
+             InlineKeyboardButton("Movie", callback_data=f"Hi", show_alert=True)]
+        )
+        btn.append(
         btn.append(
             [InlineKeyboardButton(text="🔮Pages 1/1🔮", callback_data="pages")]
         )
