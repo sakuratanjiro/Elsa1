@@ -1164,6 +1164,10 @@ async def auto_filter(client, msg, spoll=False):
         btn.append(
             [InlineKeyboardButton(text="🔮Pages 1/1🔮", callback_data="pages")]
         )
+        btn.append(
+            [
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
+        )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
     if imdb:
