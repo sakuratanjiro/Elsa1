@@ -90,22 +90,6 @@ async def next_page(bot, query):
     else:
         off_set = offset - 10
     if n_offset == 0:
-        btn.append(
-            [
-             InlineKeyboardButton("ᴍᴏᴠɪᴇꜱ", show_alert=f"Eʟᴀs ❄️
-
-•────•──────────•────•
-ᴍᴏᴠɪᴇ ʀᴇqᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ
-•────•──────────•────•
-
-★ ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ » ᴛyᴩᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ » 
-ᴄᴏᴩy ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ » ᴩᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴩ
-
-★ ᴇxᴀᴍᴩʟᴇ : ᴀᴠᴀᴛᴀʀ: ᴛʜᴇ ᴡᴀy ᴏꜰ ᴡᴀᴛᴇʀ
-
-🚫 ᴅᴏɴ'ᴛ ᴜꜱᴇ :» (/.,!?*)
-
-❣ ᴩᴏᴡᴇʀᴇᴅ ʙy ᴄɪɴᴇᴍᴀʟᴀ. ᴄᴏᴍ")]
         )
         btn.append(
             [InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
