@@ -23,10 +23,11 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/cinemala_com1')
+                InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/cinemala_com1'),
+                InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', url=f"https://t.me/{temp.U_NAME}?start=help")
             ],
             [
-                InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('👑 𝙱𝙾𝚃𝙾𝚆𝙽𝙴𝚁 👑', url='https://t.me/A_s_w_i_n_01'),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -49,7 +50,7 @@ async def start(client, message):
             InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 2 🎪', url='https://t.me/cinemala_com')
         ], [
             InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', callback_data='help'),
-            InlineKeyboardButton('👑 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 👑', url='https://t.me/A_s_w_i_n_01'),
+            InlineKeyboardButton('👑 𝙱𝙾𝚃𝙾𝚆𝙽𝙴𝚁 👑', url='https://t.me/A_s_w_i_n_01'),
             InlineKeyboardButton('❣ 𝙰𝙱𝙾𝚄𝚃 ❣', callback_data='about')
         ], [
             InlineKeyboardButton('🔎 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 🔍', switch_inline_query_current_chat='')
@@ -99,7 +100,7 @@ async def start(client, message):
             InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 2 🎪', url='https://t.me/cinemala_com')
         ], [
             InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', callback_data='help'),
-            InlineKeyboardButton('👑 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 👑', url='https://t.me/A_s_w_i_n_01'),
+            InlineKeyboardButton('👑 𝙱𝙾𝚃𝙾𝚆𝙽𝙴𝚁 👑', url='https://t.me/A_s_w_i_n_01'),
             InlineKeyboardButton('❣ 𝙰𝙱𝙾𝚄𝚃 ❣', callback_data='about')
         ], [
             InlineKeyboardButton('🔎 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 🔍', switch_inline_query_current_chat='')
