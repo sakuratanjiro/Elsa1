@@ -56,7 +56,20 @@ async def save_group(bot, message):
                         await (temp.MELCOW['welcome']).delete()
                     except:
                         pass
-                temp.MELCOW['welcome'] = await message.reply(f"<b>Hey , {u.mention}, Welcome to {message.chat.title}</b>")
+                temp.MELCOW['welcome'] = await message.reply_video(
+                                                 video=(MELCOW_VID),
+                                                 caption=(MELCOW_ENG.format(u.mention, message.chat.title)),
+                                                 reply_markup=InlineKeyboardMarkup(
+                                                                         [[
+                                                                           InlineKeyboardButton(🔖'Rᴜʟᴇs', url=f'https://t.me/ccomautofilter_bot?start=BATCH-BQADBQAD6wYAAjOlyFWGZ8bD3qcsGxYE')],
+                                                                            [InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url=f'https://t.me/cinemala_com')
+                                                                         ]]
+                                                 ),
+                                                 parse_mode='html'
+)
+
+
+
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
