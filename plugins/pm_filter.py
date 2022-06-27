@@ -99,8 +99,8 @@ async def next_page(bot, query):
         off_set = offset - 10
     if n_offset == 0:
         btn.append(
-            [InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
-             InlineKeyboardButton(f"❄️Pages {round(int(offset) / 10) + 1} / {round(total / 10)}❄️",
+            [InlineKeyboardButton("⇜𝙱𝙰𝙲𝙺", callback_data=f"next_{req}_{key}_{off_set}"),
+             InlineKeyboardButton(f"×𝙿𝙰𝙶𝙴𝚂 {round(int(offset) / 10) + 1} / {round(total / 10)}×",
                                   callback_data="pages")]
         )
         btn.append(
@@ -109,8 +109,8 @@ async def next_page(bot, query):
         )
     elif off_set is None:
         btn.append(
-            [InlineKeyboardButton(f"🔮Pages {round(int(offset) / 10) + 1} / {round(total / 10)}🔮", callback_data="pages"),
-             InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")])
+            [InlineKeyboardButton(f"×𝙿𝙰𝙶𝙴𝚂 {round(int(offset) / 10) + 1} / {round(total / 10)}×", callback_data="pages"),
+             InlineKeyboardButton("𝙽𝙴𝚇𝚃⇝", callback_data=f"next_{req}_{key}_{n_offset}")])
         btn.append(   
             [
              InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
@@ -118,9 +118,9 @@ async def next_page(bot, query):
     else:
         btn.append(
             [
-                InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
-                InlineKeyboardButton(f"🔮Pages {round(int(offset) / 10) + 1} / {round(total / 10)}🔮", callback_data="pages"),
-                InlineKeyboardButton("NEXT ⏩", callback_data=f"next_{req}_{key}_{n_offset}")]
+                InlineKeyboardButton("⇜𝙱𝙰𝙲𝙺", callback_data=f"next_{req}_{key}_{off_set}"),
+                InlineKeyboardButton(f"×𝙿𝙰𝙶𝙴𝚂 {round(int(offset) / 10) + 1} / {round(total / 10)}×", callback_data="pages"),
+                InlineKeyboardButton("𝙽𝙴𝚇𝚃⇝", callback_data=f"next_{req}_{key}_{n_offset}")]
         )
         btn.append(
                [
@@ -434,15 +434,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🎀 ᗩᗪᗪ ᗰᗴ TO YOᑌᖇ ᘜᖇOᑌᑭ 🎀', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('❤️‍🔥 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ❤️‍🔥', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('💠 ᘜᖇOᑌᑭ 💠', url='https://t.me/cinemalacom'),
-            InlineKeyboardButton('💠 ᑕᕼᗩᑎᑎᗴᒪ 💠', url='https://t.me/cinemala_com1')
+            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 1 🎪', url='https://t.me/cinemalacom'),
+            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/cinemala_com1'),
+            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 2 🎪', url='https://t.me/cinemala_com')
         ], [
-            InlineKeyboardButton('♻️ ᕼᗴᒪᑭ ♻️', callback_data='help'),
-            InlineKeyboardButton('♻️ ᗩᗷOᑌT ♻️', callback_data='about')
+            InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', callback_data='help'),
+            InlineKeyboardButton('👑 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 👑', url='https://t.me/A_s_w_i_n_01'),
+            InlineKeyboardButton('❣ 𝙰𝙱𝙾𝚄𝚃 ❣', callback_data='about')
         ], [
-            InlineKeyboardButton('🕵 Տᗴᗩᖇᑕᕼ ᕼᗴᖇᗴ 🕵', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔎 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 🔍', switch_inline_query_current_chat='')
         ]]
         reply1 = await query.message.reply_text(
             text="▰▱▱▱▱▱▱▱▱▱ 10%"
@@ -1180,8 +1182,8 @@ async def auto_filter(client, msg, spoll=False):
         BUTTONS[key] = search
         req = message.from_user.id if message.from_user else 0
         btn.append(
-            [InlineKeyboardButton(text=f"🔮Pages 1/{round(int(total_results) / 10)}🔮", callback_data="pages"),
-             InlineKeyboardButton(text="NEXT ⏩", callback_data=f"next_{req}_{key}_{offset}")]
+            [InlineKeyboardButton(text=f"×𝙿𝙰𝙶𝙴𝚂 1/{round(int(total_results) / 10)}×", callback_data="pages"),
+             InlineKeyboardButton(text="𝙽𝙴𝚇𝚃⇝", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.append(
             [
@@ -1189,7 +1191,7 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         btn.append(
-            [InlineKeyboardButton(text="🔮Pages 1/1🔮", callback_data="pages")]
+            [InlineKeyboardButton(text="×𝙿𝙰𝙶𝙴𝚂 1/1×", callback_data="pages")]
         )
         btn.append(
             [
