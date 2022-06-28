@@ -61,9 +61,9 @@ async def save_group(bot, message):
                                                  caption=(MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton("🔖'Rᴜʟᴇs", url="https://t.me/ccomautofilter_bot?start=BATCH-BQADBQAD-AUAAjOl0FXVH5XDilZ5ZBYE")
+                                                                           InlineKeyboardButton("🔖 ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 🔖", url="https://t.me/ccomautofilter_bot?start=BATCH-BQADBQAD-AUAAjOl0FXVH5XDilZ5ZBYE")
                                                                            ],[
-                                                                           InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url="https://t.me/cinemala_com1")
+                                                                           InlineKeyboardButton("🎭 ᴄʜᴀɴɴᴇʟ 🎭", url="https://t.me/cinemala_com1")
                                                                          
                                                                          ]]
                                                  ),
