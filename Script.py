@@ -136,3 +136,4 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 """
+MELCOW_ENG = """<b>Your Message Here</b>"""
