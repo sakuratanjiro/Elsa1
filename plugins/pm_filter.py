@@ -702,50 +702,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('✾ 𝙱𝙰𝙲𝙺 ✾', callback_data='help'),
             InlineKeyboardButton('✾ 𝚁𝙴𝙵𝚁𝙴𝚂𝙷 ✾', callback_data='rfrsh')
         ]]
-        reply1 = await query.message.reply_text(
-            text="▰▱▱▱▱▱▱▱▱▱ 10%"
-        )
-        await asyncio.sleep(0.1)
-        reply2 = await reply1.edit_text(
-            text="▰▰▱▱▱▱▱▱▱▱ 20%"
-        )
-        await asyncio.sleep(0.1)
-        reply3 = await reply2.edit_text(
-            text="▰▰▰▱▱▱▱▱▱▱ 30%"
-        )
-        await asyncio.sleep(0.1)
-        reply4 = await reply3.edit_text(
-            text="▰▰▰▰▱▱▱▱▱▱ 40%"
-        )
-        await asyncio.sleep(0.1)
-        reply5 = await reply4.edit_text(
-            text="▰▰▰▰▰▱▱▱▱▱ 50%"
-        )
-        await asyncio.sleep(0.1)
-        reply6 = await reply5.edit_text(
-            text="▰▰▰▰▰▰▱▱▱▱ 60%"
-        )
-        await asyncio.sleep(0.1)
-        reply7 = await reply6.edit_text(
-            text="▰▰▰▰▰▰▰▱▱▱ 70%"
-        )
-        await asyncio.sleep(0.1)
-        reply8 = await reply7.edit_text(
-            text="▰▰▰▰▰▰▰▰▱▱ 80%"
-        )
-        await asyncio.sleep(0.1)
-        reply9 = await reply8.edit_text(
-            text="▰▰▰▰▰▰▰▰▰▱ 90%"
-        )
-        await asyncio.sleep(0.1)
-        reply10 = await reply9.edit_text(
-            text="▰▰▰▰▰▰▰▰▰▰ 100%"
-        )
-        await asyncio.sleep(0.1)
-        reply11 = await reply10.edit_text(
-            text="Eʟsᴀ ❄️"
-        )
-        await reply11.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
         users = await db.total_users_count()
