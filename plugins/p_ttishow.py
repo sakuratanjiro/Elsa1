@@ -41,7 +41,7 @@ async def save_group(bot, message):
             InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/cinemala_com1')
            ],
            [
-            InlineKeyboardButton('👑 𝙱𝙾𝚃𝙾𝚆𝙽𝙴𝚁 👑', url='https://t.me/A_s_w_i_n_01')
+            InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/A_s_w_i_n_01')
            ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
