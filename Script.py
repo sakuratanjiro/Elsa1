@@ -136,7 +136,7 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 """
-    MELCOW_ENG = """<b> Hᴇʟʟᴏ {u.mention} 🙏 Wᴇʟᴄᴏᴍᴇ ᴛᴏ  {message.chat.title}
+    MELCOW_ENG = """<b>Hello {}😍, and welcome to {} Group.❤️ """<b> Hᴇʟʟᴏ {u.mention} 🙏 Wᴇʟᴄᴏᴍᴇ ᴛᴏ  {message.chat.title}
 
 -Oʙᴇʏ Tʜᴇ Rᴜʟᴇs-
 
