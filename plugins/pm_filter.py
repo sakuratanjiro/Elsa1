@@ -659,7 +659,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif query.data == "connection":
+    elif query.data == "coct":
         buttons = [[
             InlineKeyboardButton('✾ 𝙱𝙰𝙲𝙺 ✾', callback_data='help')
         ]]
