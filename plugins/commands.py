@@ -23,11 +23,11 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/cinemala_com1'),
+                InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/+yvxJ0OnUUDs3NzRl'),
                 InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', url=f"https://t.me/{temp.U_NAME}?start=help")
             ],
             [
-                InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/A_s_w_i_n_01'),
+                InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/moviesclubowne'),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -45,11 +45,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('❤️‍🔥 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ❤️‍🔥', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 1 🎪', url='https://t.me/cinemala_com'),
-            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 2 🎪', url='https://t.me/cinemalacom')
+            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 1 🎪', url='https://t.me/moviesclubz77')
         ], [
-            InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/A_s_w_i_n_01'),
-            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/cinemala_com1'),
+            InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/moviesclubowne'),
+            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/+yvxJ0OnUUDs3NzRl'),
         ],
            [
             InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', callback_data='help'),
@@ -97,11 +96,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('❤️‍🔥 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ❤️‍🔥', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 1 🎪', url='https://t.me/cinemala_com'),
-            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 2 🎪', url='https://t.me/cinemalacom')
+            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 1 🎪', url='https://t.me/moviesclubz77')
         ], [
-            InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/A_s_w_i_n_01'),
-            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/cinemala_com1'),
+            InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/moviesclubowne'),
+            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/+yvxJ0OnUUDs3NzRl'),
         ],
            [
             InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', callback_data='help'),
