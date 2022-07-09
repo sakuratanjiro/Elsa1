@@ -9,7 +9,7 @@ class script(object):
 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
     ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
 ║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/A_s_w_i_n_01>𝙰𝚂𝚆𝙸𝙽</a>
+║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/moviesclubowne>kristyan</a>
 ║┣⪼❈ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼❈ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼❈ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -17,21 +17,17 @@ class script(object):
 ║┣⪼❈ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1[𝙱𝙴𝚃𝙰]
 ╰•━━━━━━━━━━━━━━━➣
  
- 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
+ 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 kristyan"""
     SOURCE_TXT = """<b>NOTE:</b>
 ✯ 𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼 𝚋𝚘𝚝 𝚒𝚜 𝚊 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝. 𝚁𝚎𝚙𝚘 𝙲𝚛𝚎𝚍𝚒𝚝 𝙴𝚟𝚊 𝚖𝚊𝚛𝚒𝚊.
 
 ✯ 𝚂𝚘𝚞𝚛𝚌𝚎 - <a href=https://github.com/EvamariaTG/EvaMaria>𝚁𝙴𝙿𝙾</a>
 
-✯ 𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙲𝚄𝚂𝚃𝙾𝙼𝙸𝚉𝙴 𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 - <a href=https://t.me/cinemala_com1/17>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-
-✯ 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 - <a href=https://t.me/cinemala_com1/18>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-
 <b>★𝐃𝐄𝐕𝐒★</b>
 
-✯ <a href=https://t.me/A_s_w_i_n_01>𝙰𝚂𝚆𝙸𝙽</a>
+✯ <a href=https://t.me/moviesclubowne>kristyan</a>
 
- 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 𝙰𝚂𝚆𝙸𝙽"""
+ 𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 Kristyan"""
  
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
