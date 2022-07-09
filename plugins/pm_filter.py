@@ -105,7 +105,7 @@ async def next_page(bot, query):
         )
         btn.append(
             [
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")]
         )
     elif off_set is None:
         btn.append(
@@ -113,7 +113,7 @@ async def next_page(bot, query):
              InlineKeyboardButton("ɴᴇxᴛ⇝", callback_data=f"next_{req}_{key}_{n_offset}")])
         btn.append(   
             [
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")]
         )
     else:
         btn.append(
@@ -124,7 +124,7 @@ async def next_page(bot, query):
         )
         btn.append(
                [
-                InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")
+                InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")
             ],
         )
     try:
@@ -846,7 +846,7 @@ async def auto_filter(client, msg, spoll=False):
         )
         btn.append(
             [
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")]
         )
     else:
         btn.append(
@@ -854,7 +854,7 @@ async def auto_filter(client, msg, spoll=False):
         )
         btn.append(
             [
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/ccomautofilter_bot")]
+             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
