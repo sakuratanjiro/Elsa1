@@ -60,10 +60,8 @@ async def save_group(bot, message):
                                                  photo=(MELCOW_PIC),
                                                  caption=(MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
-                                                                         [[
-                                                                           InlineKeyboardButton("🔖 ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 🔖", url="https://telegra.ph/Group-Rules-07-03-2")
-                                                                           ],[
-                                                                           InlineKeyboardButton("🎭 ᴄʜᴀɴɴᴇʟ 🎭", url="https://t.me/cinemala_com1")
+                                                                         [[                                                                        
+                                                                           InlineKeyboardButton("🎭 ᴄʜᴀɴɴᴇʟ 🎭", url="https://t.me/+yvxJ0OnUUDs3NzRl")
                                                                          
                                                                          ]]
                                                  ),
