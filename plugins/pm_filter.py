@@ -105,7 +105,7 @@ async def next_page(bot, query):
         )
         btn.append(
             [
-             InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/iverbonelessfilter_bot")]
+             InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/ElsamovienewBot")]
         )
     elif off_set is None:
         btn.append(
@@ -113,7 +113,7 @@ async def next_page(bot, query):
              InlineKeyboardButton("ɴᴇxᴛ⇝", callback_data=f"next_{req}_{key}_{n_offset}")])
         btn.append(   
             [
-             InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/iverbonelessfilter_bot")]
+             InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/ElsamovienewBot")]
         )
     else:
         btn.append(
