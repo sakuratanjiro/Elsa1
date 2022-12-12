@@ -113,7 +113,7 @@ async def next_page(bot, query):
              InlineKeyboardButton("ɴᴇxᴛ⇝", callback_data=f"next_{req}_{key}_{n_offset}")])
         btn.append(   
             [
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")]
+             InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/iverbonelessfilter_bot")]
         )
     else:
         btn.append(
@@ -124,7 +124,7 @@ async def next_page(bot, query):
         )
         btn.append(
                [
-                InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")
+                InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/iverbonelessfilter_bot")
             ],
         )
     try:
@@ -436,10 +436,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('❤️‍🔥 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ❤️‍🔥', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 1 🎪', url='https://t.me/moviesclubz77')
+            InlineKeyboardButton('🎪 𝙶𝚁𝙾𝚄𝙿 1 🎪', url='https://t.me/sakura_movies')
         ], [
-            InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/moviesclubowne'),
-            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/+yvxJ0OnUUDs3NzRl'),
+            InlineKeyboardButton('🤴🏻 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 🤴🏻', url='https://t.me/Unni0240'),
+            InlineKeyboardButton('💠 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 💠', url='https://t.me/+qpfHNiKwHgI2MGI1'),
         ],
            [
             InlineKeyboardButton('❣ 𝙷𝙴𝙻𝙿 ❣', callback_data='help'),
@@ -561,7 +561,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('✵ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ✵', url='https://t.me/+yvxJ0OnUUDs3NzRl'),
+            InlineKeyboardButton('✵ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ✵', url='https://t.me/+qpfHNiKwHgI2MGI1'),
             InlineKeyboardButton('❀ 𝚁𝙴𝙿𝙾 ❀', callback_data='source')
         ], [
             InlineKeyboardButton('✾ 𝙷𝙾𝙼𝙴 ✾', callback_data='start'),
@@ -808,7 +808,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"🧞‍♂️[{get_size(file.file_size)}]🧞‍♂️ {file.file_name}", callback_data=f'{pre}#{file.file_id}'
+                    text=f"[{get_size(file.file_size)}] {file.file_name}", callback_data=f'{pre}#{file.file_id}'
                 ),
             ]
             for file in files
@@ -817,11 +817,11 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"🧞‍♂️{file.file_name}",
+                    text=f"✨{file.file_name}",
                     callback_data=f'{pre}#{file.file_id}',
                 ),
                 InlineKeyboardButton(
-                    text=f"🧞‍♂️{get_size(file.file_size)}",
+                    text=f"✨{get_size(file.file_size)}",
                     callback_data=f'{pre}#{file.file_id}',
                 ),
             ]
@@ -846,7 +846,7 @@ async def auto_filter(client, msg, spoll=False):
         )
         btn.append(
             [
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")]
+             InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/ElsamovienewBot")]
         )
     else:
         btn.append(
@@ -854,7 +854,7 @@ async def auto_filter(client, msg, spoll=False):
         )
         btn.append(
             [
-             InlineKeyboardButton("❄️ 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 ❄️", url=f"https://t.me/iverbonelessfilter_bot")]
+             InlineKeyboardButton("🔮 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝙿𝙼 🔮", url=f"https://t.me/ElsamovienewBot")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
